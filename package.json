@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/dpchamps/roguelikeengine#readme",
   "dependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "pixi.js": "^5.0.4",
     "typescript": "^3.5.2"
   },
